@@ -1,0 +1,185 @@
+.wrapper{
+	margin: 0 auto;
+	width: 1000px;
+	
+
+}
+.pull-left{
+	float: left;
+}
+.pull-right{
+	float: right;
+}
+.clearfix{
+	clear: both;
+}
+.hover{
+	background-color: #1be4b3;
+}
+.center{
+	text-align: center;
+}
+#header{
+	width: 100%;
+	background-color: #666;
+	height: 74px;
+}
+.header div{
+	display: inline-block;
+	margin-top: 0px;
+}
+
+ul{
+	display: inline-block;
+}
+li{
+	display: inline-block;
+}
+.nav{
+	margin-left: 50px;
+}
+.message{
+	margin-left: 25px;
+}
+.user{
+	margin-left: 0px;
+}
+.nav li{
+	height: 73px;
+	width: 110px;
+	line-height: 73px;
+	position: relative;
+	margin: 0 auto;
+}
+.message li{
+	height: 73px;
+	width: 35px;
+	line-height: 73px;
+	margin: 0 auto;
+}
+.message li a{
+	margin-left: 8px;
+}
+.black{
+	background-color: #5d5d5d;
+}
+.nav li a{
+	margin-left: 20px;
+}
+.nav li span{
+	position: absolute;
+	top:-3px;
+	margin-left: 5px;
+}
+.header a,span{
+	color: #fff;
+	font-family: "微软雅黑";
+	font-size: 14px;
+}
+.user a{
+	position: relative;
+	top: -3px;
+	height: 73px;
+	line-height: 73px;
+}
+.banner{
+	width: 100%;
+	height: 400px;
+	background: url("../images/course.png") no-repeat;
+	background-size: 100%;
+
+}
+
+.wrapper_s{
+	width: 1000px;
+	margin: 0 auto;
+	height: 600px;
+}
+
+.wrapper_s ul,.wrapper_s li{
+	display: block;
+}
+
+.wrapper_s li{
+	
+	height: 53px;
+}
+.wrapper_s .pull-left{
+	margin-top:25px;
+}
+.wrapper_s .pull-left a{
+	
+	padding: 15px 20px;
+	font-family: "微软雅黑";
+	font-size: 16px;
+	text-decoration: none;
+	background-color: #f5f5f5;
+	color: #4b4b4b;
+}
+.wrapper_s .pull-left  a:hover {
+	background-color:#1bd9aa;
+	color:#ffffff;
+}
+
+
+.nike a{
+	border-right:1px solid #dcdcdc; 
+	border-top: 1px solid #dcdcdc;
+	border-left:1px solid #dcdcdc;
+}
+.cou a{
+	border-right:1px solid #dcdcdc; 
+
+	border-left:1px solid #dcdcdc;
+}
+.sea a{
+	border-right:1px solid #dcdcdc; 
+	border-bottom: 1px solid #dcdcdc;
+	border-left:1px solid #dcdcdc;
+}
+.wrapper_s .pull-right{
+	border: 1px solid #d2d2d2;
+	width: 800px;
+	margin: 10px auto;
+}
+.wrapper_s .pull-right img{
+	float: left;
+	margin: 15px;
+}
+.text{
+	float: left;
+	width: 300px;
+}
+.text p{
+	padding-top:20px;
+	color: #303030;
+	font-size: 18px;
+	font-family: "微软雅黑";
+}
+td{
+ 	padding:10px;
+ 	color: #303030;
+ 	font-family: "宋体";
+ 	font-size: 12px;
+  }
+  .text span{
+  	color: #ff7043;
+  }
+.more{
+	padding-top: 110px;
+	padding-left: 700px;
+}
+  .more a{
+  	border: 1px solid #999999;
+  	padding: 5px 10px;
+  	border-radius: 7px;
+  	color: #454545;
+  	font-family: "宋体";
+  	font-size: 12px;
+  	text-decoration: none;
+  }
+  .more a:hover{
+  	background-color: #1be4b3;
+  	color: #fffefe;
+  	border: 0;
+  }

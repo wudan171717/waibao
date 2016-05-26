@@ -1,0 +1,170 @@
+*{
+	margin: 0px;
+	border: 0px;
+}
+html{
+	width: 100%;
+	overflow-x: hidden;
+}
+.header{
+	height: 51px;
+}
+.banner{
+	background: url(../images/TC-banner.jpg);
+	height: 362px;
+	margin-bottom: 21px;
+}
+.context{
+	height: 474px;
+	font-family: 微软雅黑,sans-serif;
+	font-size: 14px;
+	color: #474747; 
+	position: relative;
+	left: 327px;
+}
+#p1{
+	color: #8f8f8f;
+	font-size: 10px;
+	margin-bottom: 16px;
+}
+#p1 span{
+	color: #1bd9aa;
+}
+.context a{
+	text-decoration: none;
+	color: #474747; 
+}
+#now{
+	color: #1be4b3;
+	text-decoration: underline;
+}
+.context a span{
+	font-size: 8px;
+	font-family: 宋体,serif;
+	display: inline-block;
+	width: 42px;
+	height: 20px;
+	background: url(../images/TC-smallkuang.png) no-repeat;
+	text-align: center;
+	padding-top: 3px;
+	margin-left: 13px;
+	color: #454545;
+}
+#now2{
+	background: url(../images/TC-greenkuang.png) no-repeat;
+}
+.letter{
+	font-size: 10px;
+	margin-left: 11px;
+}
+.a1{
+	display: inline-block;
+	width: 99px;
+	height: 32px;
+	background: url(../images/TC-kuang2.jpg);
+	text-align: center;
+	padding-top: 14px;
+	margin-bottom: 21px;
+}
+#a2{
+	background: url(../images/TC-kuang.jpg);
+	color: #ffffff;
+	margin-right: -3px;
+}
+#p2{
+	margin-bottom: 13px;
+}
+#p3{
+	margin-top: 9px;
+	margin-bottom: 8px;
+}
+.cards{
+	height: 200px;
+}
+.card{
+	position: relative;
+	
+	width: 232px;
+	height: 89px;
+	font-size: 10px;
+	/*background: url(../images/TC-bigkuang.png) no-repeat;*/
+	border: 1px solid #bfbfbf;
+	margin-bottom: 9px;
+}
+.card img{
+	position: relative;
+	left: 215px;
+	top: -60px;
+}
+#photo{
+	position: relative;
+	top: 5px;
+	left: -15px;
+}
+.card h3{
+	position: relative;
+	left: 68px;
+	top: -72px;
+	margin-bottom: 7px;
+}
+#p{
+	position: relative;
+	left: 68px;
+	top: -72px;
+	/*width: 135px;*/
+	letter-spacing: -1px;
+	line-height: 15px;
+	}
+#card2{
+	position: relative;
+	left: 238px;
+	top: -200px;
+}
+#card3{
+	position: relative;
+	left: 476px;
+	top: -400px;
+}
+.yinying{
+	position: relative;
+	left: 476px;
+	top: -200px;
+}
+.yinying span{
+	color: #ffffff;
+	background: url(../images/TC-bigstar.png) no-repeat;
+	display: inline-block;
+	width: 50px;
+	height: 70px;
+	padding-top: 55px;
+	font-size: 10px;
+	position: relative;
+	top: -10px;
+	left: -145px;
+	
+}
+.collected{
+	opacity: 0.7;
+}
+.search{
+	position: relative;
+	left: 605px;
+	top: -500px;
+}
+.search input[type=text]{
+	height: 33px;
+	width: 212px;
+	font-size: 10px;
+	font-family: 微软雅黑,sans-serif;
+	color: #b6b6b6;
+	background: url(../images/TC-searchkuang.png) no-repeat;
+	padding-top: -4px;
+	padding-left: 8px;
+	letter-spacing: -1px;
+}
+.search input[type=image]{
+	position: relative;
+	left: -38px;
+	top: 3px;
+}
+

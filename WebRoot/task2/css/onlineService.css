@@ -1,0 +1,134 @@
+*{
+	margin: 0px;
+	border: 0px; 
+}
+html{
+	width: 100%;
+	overflow-x: hidden;
+}
+#header{
+	height: 51px;
+}
+.hover{
+	display: inline-block;
+	height: 52px;
+}
+#user2{
+	background-color: #1be4b3;
+	width: 55px;
+}
+.banner{
+	height: 363px;
+	background: url(../images/OS-banner.jpg) no-repeat;
+	margin-bottom: 18px;
+}
+.context{
+	font-family: 微软雅黑,sans-serif;
+	color: #474747;
+	font-size: 11px;
+	margin-left: 424px;
+}
+.context-order{
+	margin-bottom: 36px;
+}
+.tit{
+	color: #1be4b3;
+	background: url(../images/OS-user.png) no-repeat;
+	width: 60px;
+	height: 14px;
+	padding: 0px 0px 0px 18px;
+}
+#oo{
+	background: url(../images/OS-phone.png) no-repeat; 
+	height: 13px;
+}
+#bang{
+	margin-top: 10px;
+	margin-bottom: 20px; 
+}
+#adjust{
+	margin-left: 20px;
+}
+#selected{
+	display: inline-block;
+	width: 213px;
+	height: 33px;
+	background: url(../images/OS-choicekuang.jpg) no-repeat;
+	padding: 7px 0px 0px 15px;
+	position: relative;
+	left: 5px;
+}
+.context-order select{
+	width: 213px;
+	height: 33px;
+	position: relative;
+	left: -223px;
+	opacity: 0;
+}
+.form{
+	margin-left: 10px;
+	margin-top: 15px;
+	width: 324px;
+	height: 323px;
+	background-color: #f8f8f8;
+	border: 1px solid #d2d2d2;
+	text-align: center;
+}
+#head{
+	margin-top: 18px;
+}
+.form p{
+	margin-bottom: 12px;
+}
+.form input{
+	display: inline-block;
+	width: 206px;
+	height: 33px;
+	border: 1px solid #d2d2d2;
+	border-radius: 5px;
+	font-size: 11px;
+	font-family: 微软雅黑,sans-serif;
+	color: #6a6a6a;
+	text-indent: 10px;  
+	margin-left: 5px;
+}
+#handin{
+	display: block;
+	width: 105px;
+	height: 36px;
+	background-color: #1be4b3;
+	border: 1px solid #d2d2d2;
+	border-radius: 5px;
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 16px;
+	text-align: center;
+	padding-top: 13px;
+	margin-top: 35px;
+	margin-left: 115px;
+}
+#error{
+	font-size: 8px;
+	font-family: 宋体,serif;
+	color: #6a6a6a;
+	position: relative;
+	left: 390px;
+	top: -290px;
+}
+.context-contact a{
+	color: #1be4b3;
+	margin-left: 25px;
+}
+.tit2{
+	background: url(../images/OS-mail.png) no-repeat;
+	padding-left: 25px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+#t1{
+	background-position: 0px 3px;
+}
+#t2{
+	background: url(../images/OS-phone2.png) no-repeat;
+	margin-bottom: 108px;
+}

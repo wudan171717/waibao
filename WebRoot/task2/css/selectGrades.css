@@ -1,0 +1,147 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+html{
+	width: 100%;
+	overflow-x: hidden;
+}
+
+.banner{
+	background: url(../images/SG-banner.jpg) no-repeat;
+	text-align: center;
+	height: 295px;
+}
+.banner h1{
+	position: relative;
+	top: 81px;
+	left: 14px;
+	font-size: 42px;
+	font-family: DengXian,黑体,sans-serif;
+	color: #ffffff;
+}
+.banner p{
+	position: relative;
+	top: 93px;
+	font-size: 21px;
+	font-family: DengXian,黑体,sans-serif;
+	color: #ffffff;
+}
+#p2{
+	left: 6px;
+	font-size: 18px;
+}
+.banner img{
+	position: relative;
+	top: 118px;
+	left: 6px;
+}
+.context{
+	height: 473px;
+}
+.context img{
+	position: relative;
+	top: 20px;
+	left: 326px;
+}
+.context a{
+	position: relative;
+	bottom: 62px;
+	left: 328px;
+	display: block;
+	width: 115px;
+	height: 38px;
+	text-decoration: none;
+	font-size: 11px;
+	font-family: 微软雅黑,sans-serif;
+	color: #4b4b4b;
+}
+#a1{
+
+	background: url(../images/SG-download1.jpg) no-repeat;
+	text-align: center;
+	padding-top: 11px;
+}
+#a2{
+	position: relative;
+	bottom: 71px;
+	background: url(../images/SG-download2.jpg) no-repeat;
+	text-align: center;
+	padding-top: 11px;
+}
+.form{
+	width: 878px;
+	height: 351px;
+	/*background-color: black;*/
+	position: relative;
+	left: 465px;
+	bottom: 180px;
+}
+#p1{
+	font-size: 10px;
+	font-family: 微软雅黑,sans-serif;
+	color: #8f8f8f;
+}
+#p1 span{
+	color: #1bd9aa;
+}
+.form img{
+	position: relative;
+	left:0px;
+	top:22px;
+}
+.p2{
+	margin-top: 22px;
+	color: #303030;
+	font-family: 微软雅黑,sans-serif;
+	font-size: 13px;
+}
+#selected{
+	background: url(../images/SG-choicekuang.jpg) center no-repeat;
+	display: block;
+	width: 142px;
+	height: 27px;
+	position: relative;
+	top:-22px;
+	left: 82px;
+	font-size: 10px;
+	line-height: 25px;
+	text-indent: 25px;
+}
+.p2 select{
+	position: relative;
+	top: -49px;
+	left: 82px;
+	opacity: 0;
+	width: 142px;
+	height: 27px;
+}
+#week{
+	position: relative;
+	top: -37px;
+}
+.table{
+	border: solid #e0e0e0;
+	border-width: 1px 0px 0px 1px;
+	width: 492px;
+	position: relative;
+	top: -30px;
+}
+.table th{
+	font-size: 10px;
+	font-family: 微软雅黑,sans-serif;
+	color: #303030;
+	height: 34px;
+	border: solid #e0e0e0;
+	border-width: 0px 1px 1px 0px;
+	background-color: #ebebeb;
+}
+.table td{
+	font-size: 8px;
+	font-family: 宋体,serif;
+	color: #2c2c2c;
+	height: 34px;
+	text-align: center;
+	border: solid #e0e0e0;
+	border-width: 0px 1px 1px 0px;
+}

@@ -1,0 +1,67 @@
+*{
+	margin: 0px;
+	border: 0px; 
+}
+html{
+	width: 100%;
+	overflow-x: hidden;
+}
+.header{
+	height: 51px;
+}
+.context{
+	font-size: 11px;
+	font-family: 微软雅黑,sans-serif;
+	color: #575757;
+	/*height: 768px;*/
+
+	position: relative;
+	left: 330px;
+}
+.context h1{
+	font-size: 17px;
+	position: relative;
+	left: 259px;
+	margin-top: 39px;
+	margin-bottom: 46px;
+}
+.context h4{
+	float: right;
+	position: absolute;
+	left: 614px;
+	top: 5px;
+}
+.context h4 span{
+	color: #ff7043;
+	position: relative;
+	top: -1px;
+}
+#ques{
+	margin-bottom: 20px;
+}
+.context h3{
+	margin-bottom: 18px;
+}
+.context form{
+	margin-bottom: 34px;
+}
+.context input{
+	margin-left: 15px;
+	margin-right: 5px; 
+}
+.context span{
+	font-family: 宋体,serif;
+	font-size: 8px;
+	margin-right: 5px;
+	position: relative;
+	top: -3px;
+}
+#f4{
+	margin-bottom: 8px;
+}
+.f4{
+	margin-top: 10px;
+}
+#f7{
+	margin-bottom: 80px;
+}

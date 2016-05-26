@@ -1,0 +1,113 @@
+*{
+	margin: 0px;
+	border: 0px;
+}
+html{
+	width: 100%;
+	overflow-x: hidden;
+}
+.header{
+	height: 51px;
+}
+.banner{
+	height: 296px;
+	background: url(../images/MT-banner.jpg);
+	margin-bottom: 20px;
+}
+.context{
+	font-family: 微软雅黑,sans-serif;
+	color: #303030;
+	height: 473px;
+}
+.button{
+	float: left;
+	height: 77px;
+	width: 115px;
+	border: 1px solid #dcdcdc;
+	margin-left: 327px;
+}
+.button a{
+	text-decoration: none;
+
+}
+.button p{
+	font-size: 11px;
+	font-family: 微软雅黑,sans-serif;
+	color: #ffffff;
+	width: 115px;
+	height: 38px;
+	background: url(../images/MT-testing.jpg) no-repeat;
+	text-align: center;
+	padding-top: 11px;
+}
+#sg{
+	background: url(../images/MT-selectgrades.jpg) no-repeat;
+	color: #4b4b4b;
+	position: relative;
+	top: -10px;
+}
+.subject{
+	float: right;
+	margin-right: 310px;
+}
+#bang{
+	margin-bottom: 8px;
+	margin-top: 10px;
+}
+#my{
+	font-size: 10px;
+	color: #8f8f8f;
+	margin-bottom: -5px;
+}
+#my span{
+	color: #1bd9aa;
+}
+.onesubject{
+	width: 573px;
+	height: 89px;
+	border: 1px solid #d2d2d2;
+	margin-top: 9px;
+}
+.onesubject img{
+	position: relative;
+	left: 5px;
+	top: 5px;
+}
+.onesubject h3{
+	font-size: 13px;
+	margin-bottom: 10px;
+}
+.onesubject p{
+	font-size: 10px;
+}
+#words span{
+	margin-left: 20px;
+}
+#words{
+	position: relative;
+	left: 150px;
+	top: -72px;
+}
+.onesubject a{
+	text-decoration: none;
+	font-size: 8px;
+	font-family: 宋体,serif;
+	color: #454545;
+	display: block;
+	width: 52px;
+	height: 18px;
+	border-radius: 5px;
+	border: 1px solid #999999;
+	text-align: center;
+	padding-top: 3px;
+	position: relative;
+	left: 510px;
+	top: -85px;
+}
+#now{
+	width: 54px;
+	height: 20px;
+	color: #ffffff;
+	background-color: #1be4b3;
+	border: 0px;
+}

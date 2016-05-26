@@ -1,0 +1,36 @@
+.article hr{
+	margin-bottom: 40px;
+}
+.book-name p:first-child  span{
+	font-family: "微软雅黑";
+	font-size: 18px;
+}
+.book-name a{
+	font-family: "微软雅黑";
+	font-size: 14px;
+	border:1px solid #1be4b3;
+	padding: 4px 8px;
+}
+.book-name img{
+	margin-left: 8px;
+}
+.book-state{
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+.book-state span{
+	margin-right: 50px;
+}
+.book-introduce li,.course-introduce li{
+	display: block;
+	line-height: 26px;
+}
+.book-introduce,.course-block{
+	margin-bottom: 45px;
+}
+.container{
+	padding-bottom: 15px;
+}
+.course-block span{
+	font-size: 18px;
+}

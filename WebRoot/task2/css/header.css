@@ -1,0 +1,71 @@
+.wrapper{
+	margin: 0 auto;
+	width: 1000px;
+	border: 1px solid blue;
+}
+.pull-left{
+	float: left;
+}
+.pull-right{
+	float: right;
+}
+.clearfix{
+	clear: both;
+}
+.hover{
+	background-color: #1be4b3;
+}
+#header{
+	width: 100%;
+	background-color: #666;
+}
+ul,li,.user{
+	display: inline-block;
+}
+.nav{
+	margin-left: 20px;
+}
+.message{
+	margin-left: 10px;
+}
+.user{
+	margin-left: 15px;
+}
+.nav li{
+	position: relative;
+	height: 73px;
+	width: 120px;
+	line-height: 73px;
+	margin: 0 auto;
+}
+.message li{
+	height: 73px;
+	width: 35px;
+	line-height: 73px;
+	margin: 0 auto;
+}
+.message li a{
+	margin-left: 8px;
+}
+.black{
+	background-color: #5d5d5d;
+}
+.nav li a{
+	margin-left: 18px;
+}
+.nav li span{
+	position: absolute;
+	top:-3px;
+	margin-left: 5px;
+}
+.header a,.header span{
+	color: #fff;
+	font-family: "微软雅黑";
+	font-size: 14px;
+}
+.user a{
+	position: relative;
+	top: -3px;
+	height: 73px;
+	line-height: 73px;
+}

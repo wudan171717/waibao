@@ -1,0 +1,36 @@
+ol{
+	list-style-type: decimal;
+}
+.title li{
+display: block;
+margin-top:30px;
+}
+.answer li{
+	margin: 0 33px 4px 0;
+	display: inline-block;
+}
+.last-title li{
+	display: block;
+}
+
+.answer li {
+	margin-top: 15px;
+	font-size: 12px;
+}
+ .answer input{
+	margin-right: 15px;
+	position: relative;
+	top:3px;
+}
+.button input{
+	width: 74px;
+	height: 32px;
+	border: none;
+	border-radius: 6px;
+	color: #fff;
+	margin-top: 60px;
+}
+[type="submit"]{
+	margin-right: 8px;
+	background-color: #1be4b3;
+}

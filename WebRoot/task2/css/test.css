@@ -1,0 +1,67 @@
+.article hr{
+	margin-bottom: 25px;
+}
+.article{
+	overflow: hidden;
+}
+.content-title .hide{
+	display: none;
+}
+
+.article-content{
+	width: 512px;
+	border: none;
+}
+.content-title li,.content-title ul{
+	display: block;
+	margin:20px 0;
+}
+.child li{
+	font-size: 14px;
+	margin:0 0 0 30px;
+	line-height: 1.8em;
+}
+.content-title{
+	color: black;
+	font-size: 16px;
+	width: 100%;
+}
+.right{
+	margin-left: 30px;
+}
+.last-study li:first-child{
+	margin:30px 0 15px 0;
+	
+	
+}
+.last-study li span{
+	color: black;
+	position: relative;
+	top:-3px;
+	font-size: 16px;
+}
+.last-study{
+	display: block;
+	margin-bottom: 30px;
+}
+.last-study li{
+	display: block;
+	margin-left: 25px;
+	margin: 6px 0 6px 25px;
+}
+.right p{
+	margin-bottom: 20px;
+}
+.right p span{
+	font-size: 16px;
+	color: black;
+	position: relative;
+	top:-3px;
+	margin-left: 8px;
+}
+.right .number{
+	position: relative;
+	top:0px;
+	color: #1be4b3;
+	margin: 0 6px;
+}

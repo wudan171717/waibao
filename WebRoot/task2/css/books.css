@@ -1,0 +1,29 @@
+.article hr{
+	margin-bottom: 40px;
+}
+.book-name p{
+	display: inline-block;
+}
+.book-state{
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+.book-name p:first-child  span{
+	font-family: "微软雅黑";
+	font-size: 18px;
+}
+.book-state span{
+	margin-right: 50px;
+}
+.book-name hr{
+	width: 67%;
+	border-bottom-style: dotted;
+	display: inline-block;
+	margin-bottom: 0px;
+	position: relative;
+	top: -8px;
+	margin-left: 20px;
+}
+.book-name img{
+	margin-left: 20px;
+}

@@ -1,0 +1,91 @@
+.wrapper{
+	margin: 0 auto;
+	width: 1000px;
+	
+
+}
+.pull-left{
+	float: left;
+}
+.pull-right{
+	float: right;
+}
+.clearfix{
+	clear: both;
+}
+.hover{
+	background-color: #1be4b3;
+}
+.center{
+	text-align: center;
+}
+#header{
+	width: 100%;
+	background-color: #666;
+	height: 51px;
+}
+.header div{
+	display: inline-block;
+	margin-top: 0px;
+}
+
+ul{
+	display: inline-block;
+}
+li{
+	display: inline-block;
+}
+.nav{
+	margin-left: 50px;
+}
+.message{
+	margin-left: 25px;
+}
+.user{
+	margin-left: 0px;
+}
+.nav li{
+	height: 51px;
+	width: 110px;
+	line-height: 51px;
+	position: relative;
+	margin: 0 auto;
+}
+.message li{
+	height: 51px;
+	width: 35px;
+	line-height: 51px;
+	margin: 0 auto;
+}
+.message li a{
+	margin-left: 8px;
+}
+.black{
+	background-color: #5d5d5d;
+}
+.nav li a{
+	margin-left: 20px;
+}
+.nav li span{
+	position: absolute;
+	top:-3px;
+	margin-left: 5px;
+}
+.header a,span{
+	color: #fff;
+	font-family: "微软雅黑";
+	font-size: 14px;
+}
+#user2{
+	padding-left: 5px;
+	display: inline-block;
+}
+.user a{
+	position: relative;
+	top: -3px;
+	line-height: 51px; 
+}
+.user{
+	margin-right:40px;
+	height: 51px;
+}

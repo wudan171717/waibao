@@ -1,0 +1,218 @@
+*{
+	margin: 0px;
+	border: 0px;
+}
+html{
+	width: 100%;
+	overflow-x: hidden;
+}
+#user2{
+	height: 51px;
+	width: 50px;
+	background-color: #1be4b3;
+}
+.banner{
+	height: 362px;
+	background: url(../images/PC-banner.jpg);
+	color: #ffffff;
+}
+.banner p{
+	width: 94px;
+	line-height: 31px;
+	font-size: 31px;
+	font-family: FZXH1JW,微软雅黑,sans-serif;
+	position: relative;
+	top: 106px;
+	left: 510px;
+	letter-spacing: -1px;
+}
+#p2{
+	font-size: 127px;
+	font-family: FZQKBYSJW,宋体,serif;
+	width: 260px;
+	position: relative;
+	left: 610px;
+	top: 39px;
+	letter-spacing: -15px;
+}
+.banner span{
+	font-size: 22px;
+	font-family: PingFang,黑体,sans-serif;
+	position: relative;
+	left: 615px;
+	top: 78px;
+}
+#span1{
+	font-size: 41px;
+	position: relative;
+	left: 530px;
+	top: 113px;
+}
+.banner img{
+	position: relative;
+	left: 370px;
+	top: 85px;
+}
+.context{
+	height: 829px;
+	font-size: 14px;
+	font-family: 微软雅黑,sans-serif;
+	color: #474747;
+}
+.context-information{
+	margin-top: 21px;
+}
+#pi{
+	color: #1be4b3;
+	background: url(../images/PC-user.png) no-repeat;
+	padding-left: 25px;
+	position: relative;
+	left: 224px;
+}
+#heng{
+	position: relative;
+	left: 220px;
+	top: -115px;
+}
+#photo{
+	position: relative;
+	right: 605px;
+	top: 40px;
+}
+.context-information span{
+	position: relative;
+	left: 425px;
+	top: -80px;
+}
+.kuang{
+	color: #6a6a6a;
+	display: inline-block;
+	width: 255px;
+	height: 39px;
+	background: url(../images/PC-bigkuang.png) no-repeat;
+	padding: 10px 0px 0px 12px;
+	margin: 0px 0px 8px 10px; 
+}
+#ap{
+	text-decoration: none;
+	color: #454545;
+	display: block;
+	width: 85px;
+	height: 24px;
+	background: url(../images/PC-alterkuang.png) no-repeat;
+	text-align: center;
+	padding-top: 4px;
+	position: relative;
+	left: 268px;
+	top: -165px;
+}
+.context-information a{
+	color: #6a6a6a;
+	font-size: 10px;
+	font-family: 宋体,serif;
+	position: relative;
+	left: 840px;
+	top: -140px;
+}
+.context-secure{
+	margin-bottom: 35px;
+}
+#is{
+	color: #1be4b3;
+	background: url(../images/PC-secure.png) no-repeat;
+	height: 19px;
+	padding-left: 30px;
+	position: relative;
+	left: 224px;
+	top: -105px;
+}
+.context-secure p{
+	position: relative;
+	left: 255px;
+	top: -95px;
+}
+.context-secure span{
+	color: #454545;
+}
+#kuang{
+	margin-left: 20px;
+}
+.context-secure a{
+	color: #6a6a6a;
+	display: inline-block;
+	width: 82px;
+	height: 39px;
+	background: url(../images/PC-smallkuang.png) no-repeat;
+	text-align: center;
+	padding-top: 10px;
+	text-decoration: none;
+}
+.context-manage{
+	font-size: 14px;
+	font-family: 微软雅黑,sans-serif;
+	color: #454545;
+}
+#cmm{
+	color: #1be4b3;
+	background: url(../images/PC-massege.png) no-repeat;
+	padding-left: 30px;
+	position: relative;
+	left: 224px;
+	top: -105px;
+	height: 19px;
+}
+.context-manage p{
+	position: relative;
+	left: 255px;
+	top: -85px;
+}
+.xuxian{
+	width: 239px;
+	border-top: 1px #d7d7d7 dashed;
+	position: relative;
+	left: 387px;
+	top: -95px;
+}
+.context-manage span{
+	position: relative;
+	left: 305px;
+	color: #454545;
+}
+#kong{
+	position: relative;
+	left: 347px;
+}
+.checkbox{
+	display: inline-block;
+	width: 39px;
+	height: 20px;
+	background: #e5e5e5;
+	border: 1px solid #a0a0a0;
+	border-radius: 10px;
+	position: relative;
+	left: 635px;
+	top: -105px;
+}
+.checkbox input{
+	visibility: hidden;
+}
+.checkbox label{
+	display: block;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	-webkit-transition: all .5s ease;
+	-moz-transition: all .5s ease;
+	-o-transition: all .5s ease;
+	-ms-transition: all .5s ease;
+	transition: all .5s ease;
+	cursor: pointer;
+	position: relative;
+	top: -16px;
+	left: -1px;
+	background: #ffffff;
+	border: 1px solid #c0beb8;
+}
+.checkbox input[type=checkbox]:checked+label{
+	left: 18px;
+}
